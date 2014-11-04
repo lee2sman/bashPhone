@@ -1,5 +1,29 @@
 bashPhone
 =========
+      _______________________________
+     /                               \
+    |                                 |       
+    | [`````] [`````] [`````] [`````] |       
+    | [  B  ] [  A  ] [  S  ] [  H  ] |       
+    | [_____] [_____] [_____] [_____] |       
+    |                                 |       
+    | [`````] [`````] [`````] [`````] |       
+    | [ PH  ] [  O  ] [  N  ] [  E  ] |       
+    | [_____] [_____] [_____] [_____] |       
+    |                                 |       
+    | [`````] [`````] [`````] [`````] |       
+    | [ BC  ] [NY   ] [Calc ] [Black] |       
+    | [News_] [Times] [_____] [Jack_] |       
+    |                                 |       
+    | [`````] [`````] [`````] [`````] |       
+    | [Sptfy] [Wthr ] [Sked ] [ToDo ] |       
+    | [_____] [_____] [_____] [_____] |       
+    |                                 |       
+    |                                 |       
+    |                ⏜               |
+    |              ( ⌽ )             |
+    |                ⏝               |
+     \_______________________________/
 
 This is an ascii art implementation of iphone-like "apps" for Bash. In other words, this program is meant to emulate a smartphone with apps. The apps are all bash scripts/aliases. Future plans include wrapping this in Curses as well as creating ability to add or remove "apps" or create your own. Who knows, maybe this could be a thing?!
 
