@@ -2,19 +2,22 @@
  /                               \
 |                                 |        +--------------------------+
 | [`````] [`````] [`````] [`````] |        | BASHPHONE APPS           |
-| [BBC  ] [NY   ] [Calc ] [Black] |        |__________________________|
-| [News_] [Times] [_____] [Jack_] |        | Type     |      ...to run|
+| [  B  ] [  A  ] [  S  ] [  H  ] |        |__________________________|
+| [_____] [_____] [_____] [_____] |        | Type     |      ...to run|
 |                                 |        |--------------------------|
 | [`````] [`````] [`````] [`````] |        | bbc      | BBC News      |
-| [Sptfy] [Wthr ] [Sked ] [ToDo ] |        | nytimes  | New York Times|
+| [ PH  ] [  O  ] [  N  ] [  E  ] |        | nytimes  | New York Times|
 | [_____] [_____] [_____] [_____] |        | calc     | Calculator    |
 |                                 |        | blackjack| Blackjack     |
-|                                 |        | spotify  | Spotify       |
-|                                 |        | weather  | Weather report|
-|                                 |        | sked     | Calendar      |
+| [`````] [`````] [`````] [`````] |        | spotify  | Spotify       |
+| [BBC  ] [NY   ] [Calc ] [Black] |        | weather  | Weather report|
+| [News_] [Times] [_____] [Jack_] |        | sked     | Calendar      |
 |                                 |        | today    | Today's ToDo's|
-|                                 |        +--------------------------+
-|                ⏜                |
-|              ( ⌽ )              |
-|                ⏝                |
+| [`````] [`````] [`````] [`````] |        +--------------------------+
+| [Sptfy] [Wthr ] [Sked ] [ToDo ] | 
+| [_____] [_____] [_____] [_____] |       
+|                                 |       
+|                                 |
+|               ([])              |
+|                                 |
  \_______________________________/
