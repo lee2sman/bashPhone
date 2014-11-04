@@ -1,0 +1,20 @@
+  _______________________________
+ /                               \
+|                                 |        +--------------------------+
+| [`````] [`````] [`````] [`````] |        | BASHPHONE APPS           |
+| [BBC  ] [NY   ] [Calc ] [Black] |        |__________________________|
+| [News_] [Times] [_____] [Jack_] |        | Type     |      ...to run|
+|                                 |        |--------------------------|
+| [`````] [`````] [`````] [`````] |        | bbc      | BBC News      |
+| [Sptfy] [Wthr ] [Sked ] [Today] |        | nytimes  | New York Times|
+| [_____] [_____] [_____] [_____] |        | calc     | Calculator    |
+|                                 |        | blackjack| Blackjack     |
+|                                 |        | spotify  | Spotify       |
+|                                 |        | weather  | Weather report|
+|                                 |        | sked     | Calendar      |
+|                                 |        | today    | Today's cal   |
+|                                 |        +--------------------------+
+|                ⏜                |
+|              ( ⌽ )              |
+|                ⏝                |
+ \_______________________________/
