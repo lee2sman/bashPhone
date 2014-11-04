@@ -15,13 +15,14 @@ How to use currently
 **2.**  You need to edit the file for your own needs and computer. Full tutorial to be forthcoming.
 Change the path for the bashphone alias to where iphoneWithApps.txt is located on your computer.
 Do the same with other aliases.
+
 **3.**  Create your own "apps" by writing your own aliases. At some point I'll post these programs too. Would be nice to turn these into installable "apps."
  
 To Do
 =====
 v0.1 Text file ascii drawing called with an alias 'bashphone'. Individual apps are other aliases.
 
-v0.5 Bash script that prints smartphone ascii pic to terminal
+v0.5 Add in scripts for the built-in apps/programs.
 
 v1 implement Curses wrapper
 
