@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+# This is an ascii art implementation of iphone-like "apps" for the terminal 
+# currently launching aliases, shellscripts and python programs in bash. 
+# To do: ability to add or remove "apps" or create your own.
+# Note: Current version 1.0 is an alpha rather than fully realized program.
+
 from os import system
 import curses
 
