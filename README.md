@@ -1,36 +1,36 @@
 bashPhone
 =========
-  _______________________________
- /                               \ 
-|                                 |        +-------------------+
-| [`````] [`````] [`````] [`````] |        | BASHPHONE APPS    |
-| [  B  ] [  A  ] [  S  ] [  H  ] |        |___________________|
-| [_____] [_____] [_____] [_____] |        |Type|     ...to run|
-|                                 |        |-------------------|
-| [`````] [`````] [`````] [`````] |        | B | BBC News      |
-| [ PH  ] [  O  ] [  N  ] [  E  ] |        | n | New York Times|
-| [_____] [_____] [_____] [_____] |        | f | Fortune       |
-|                                 |        | b | Blackjack     |
-| [`````] [`````] [`````] [`````] |        | s | Spotify       |
-| [BBC  ] [NY   ] [Fort-] [Black] |        | w | Weather       |
-| [News_] [Times] [__une] [Jack_] |        | c | Calendar      |
-|                                 |        | t | Today's ToDo's|
-| [`````] [`````] [`````] [`````] |        | q | Quit          |
-| [Sptfy] [Wthr ] [ Cal ] [ToDo ] |        +-------------------+
-| [_____] [_____] [_____] [_____] |
-|                                 |
-|                                 |
-|                ([])             |
-|                                 |
- \_______________________________/ 
  
-This is an ascii art implementation of iphone-like "apps" for Bash. In other words, this program is meant to emulate a smartphone with apps. The apps are all bash scripts/aliases. Future plans include creating ability to add or remove "apps" or create your own. Who knows, maybe this could be a thing?!
+	 ------------------------------------------------------------------------------
+	|  _______________________________                                             │
+	│ /                               \                                            │
+	│|                                 |        +-------------------+              │
+	│| [`````] [`````] [`````] [`````] |        | BASHPHONE APPS    |              │
+	│| [  B  ] [  A  ] [  S  ] [  H  ] |        |___________________|              │
+	│| [_____] [_____] [_____] [_____] |        |Type|     ...to run|              │
+	│|                                 |        |-------------------|              │
+	│| [`````] [`````] [`````] [`````] |        | B | BBC News      |              │
+	│| [ PH  ] [  O  ] [  N  ] [  E  ] |        | n | New York Times|              │
+	│| [_____] [_____] [_____] [_____] |        | f | Fortune       |              │
+	│|                                 |        | b | Blackjack     |              │
+	│| [`````] [`````] [`````] [`````] |        | s | Spotify       |              │
+	│| [BBC  ] [NY   ] [Fort-] [Black] |        | w | Weather       |              │
+	│| [News_] [Times] [__une] [Jack_] |        | c | Calendar      |              │
+	│|                                 |        | t | Today's ToDo's|              │
+	│| [`````] [`````] [`````] [`````] |        | q | Quit          |              │
+	│| [Sptfy] [Wthr ] [ Cal ] [ToDo ] |        +-------------------+              │
+	│| [_____] [_____] [_____] [_____] |                                           │
+	│|                                 |                                           │
+	│|                ([])             |                                           │
+	│|                                 |                                           │
+	│ \_______________________________/                                            |
+	--------------------------------------------------------------------------------
 
-Note: Current version 1.0 is an alpha rather than fully realized program.
+This is an in-development ascii art implementation of iphone-like "apps" for Bash. In other words, this program is meant to emulate a smartphone with apps. The apps are all bash scripts/aliases. Future plans include creating ability to add or remove "apps" or create your own.
 
 Installation
 ===================
-** Note: This is an alpha and not an ideal way to install!*
+** Note: This is an alpha. Future plans include an install file.*
 
 **1.**  Download bashphone.py and put it somewhere (doesn't matter!). Edit your bash profile (instructions for doing it with the OS X terminal editor nano are below, but you could also use sublimetext, atom, etc). Add an alias to launch bashphone using the nano text editor (or editor of your choice). The alias bashphone line can be anywhere in your .bash-profile file. Of course, replace path/to with the path to the location of the downloaded bashphone.py file.
 
