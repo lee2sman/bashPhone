@@ -1,30 +1,29 @@
 bashPhone
 =========
-      _______________________________
-     /                               \
-    |                                 |       
-    | [`````] [`````] [`````] [`````] |       
-    | [  B  ] [  A  ] [  S  ] [  H  ] |       
-    | [_____] [_____] [_____] [_____] |       
-    |                                 |       
-    | [`````] [`````] [`````] [`````] |       
-    | [ PH  ] [  O  ] [  N  ] [  E  ] |       
-    | [_____] [_____] [_____] [_____] |       
-    |                                 |       
-    | [`````] [`````] [`````] [`````] |       
-    | [BBC  ] [NY   ] [Calc ] [Black] |       
-    | [News_] [Times] [_____] [Jack_] |       
-    |                                 |       
-    | [`````] [`````] [`````] [`````] |       
-    | [Sptfy] [Wthr ] [Sked ] [ToDo ] |       
-    | [_____] [_____] [_____] [_____] |       
-    |                                 |       
-    |                                 |       
-    |                                 |
-    |                □⃝                |
-    |                                 |
-     \_______________________________/
-
+  _______________________________
+ /                               \ 
+|                                 |        +-------------------+
+| [`````] [`````] [`````] [`````] |        | BASHPHONE APPS    |
+| [  B  ] [  A  ] [  S  ] [  H  ] |        |___________________|
+| [_____] [_____] [_____] [_____] |        |Type|     ...to run|
+|                                 |        |-------------------|
+| [`````] [`````] [`````] [`````] |        | B | BBC News      |
+| [ PH  ] [  O  ] [  N  ] [  E  ] |        | n | New York Times|
+| [_____] [_____] [_____] [_____] |        | f | Fortune       |
+|                                 |        | b | Blackjack     |
+| [`````] [`````] [`````] [`````] |        | s | Spotify       |
+| [BBC  ] [NY   ] [Fort-] [Black] |        | w | Weather       |
+| [News_] [Times] [__une] [Jack_] |        | c | Calendar      |
+|                                 |        | t | Today's ToDo's|
+| [`````] [`````] [`````] [`````] |        | q | Quit          |
+| [Sptfy] [Wthr ] [ Cal ] [ToDo ] |        +-------------------+
+| [_____] [_____] [_____] [_____] |
+|                                 |
+|                                 |
+|                ([])             |
+|                                 |
+ \_______________________________/ 
+ 
 This is an ascii art implementation of iphone-like "apps" for Bash. In other words, this program is meant to emulate a smartphone with apps. The apps are all bash scripts/aliases. Future plans include creating ability to add or remove "apps" or create your own. Who knows, maybe this could be a thing?!
 
 Note: Current version 1.0 is an alpha rather than fully realized program.
