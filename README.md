@@ -47,8 +47,3 @@ Installation
 
 **3.**  Create your own "apps" by writing your own aliases and editing the python program. At some point I'll post these programs too. Would be nice to turn these into installable "apps."
  
-To Do
-=====
-*  ability to install and deinstall "apps" scripts
-*  Need to find/write more programs!
-*  Find better weather and news clippers.
